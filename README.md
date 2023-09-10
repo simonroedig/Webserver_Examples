@@ -8,3 +8,6 @@ Provides an example on how to use API's with NodeJS
 
 - webServer_esp32_controlLED.py: <br>
 Provides an example on controlling a ESP32 LED via a user interface remotely in the local network
+
+- webAnalytics_esp32_controlLED.py <br>
+Provides additionally all possible information about a connected client triyng to control the ESP32 LED
